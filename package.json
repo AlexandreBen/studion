@@ -1,0 +1,27 @@
+{
+  "name": "studion",
+  "version": "1.0.0",
+  "description": "Home page for Studion Events provider and services",
+  "main": "src/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexandreBen/studion.git"
+  },
+  "keywords": [
+    "HTML",
+    "CSS",
+    "Javascript"
+  ],
+  "author": "Alexandre Benjamin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexandreBen/studion/issues"
+  },
+  "homepage": "https://github.com/AlexandreBen/studion#readme",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
